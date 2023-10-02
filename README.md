@@ -1,3 +1,3 @@
 # validate-password
 
-![](https://github.com/ingridmielnik/validate-password/blob/feature/documentacao/assets/DesArquitetura.png)
+![Desenho de Arquitetura](https://github.com/ingridmielnik/validate-password/blob/feature/documentacao/assets/DesArquitetura.png)
