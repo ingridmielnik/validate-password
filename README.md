@@ -1,4 +1,5 @@
-# validate-password
+# Validate Password
+Tecnologias utilizadas: C# (.NET 6.0), React.
 
 ![Desenho de Arquitetura](https://github.com/ingridmielnik/validate-password/blob/feature/documentacao/assets/DesArquitetura.png)
 
