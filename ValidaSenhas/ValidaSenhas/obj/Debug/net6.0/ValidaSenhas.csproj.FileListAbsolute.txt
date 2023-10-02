@@ -1,0 +1,54 @@
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\bin\Debug\net6.0\appsettings.json
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\bin\Debug\net6.0\ValidaSenhas.exe
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\bin\Debug\net6.0\ValidaSenhas.deps.json
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\bin\Debug\net6.0\ValidaSenhas.runtimeconfig.json
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\bin\Debug\net6.0\ValidaSenhas.dll
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\bin\Debug\net6.0\ValidaSenhas.pdb
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ValidaSenhas.csproj.AssemblyReference.cache
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ValidaSenhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ValidaSenhas.AssemblyInfoInputs.cache
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ValidaSenhas.AssemblyInfo.cs
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ValidaSenhas.csproj.CoreCompileInputs.cache
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ValidaSenhas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ValidaSenhas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\scopedcss\bundle\ValidaSenhas.styles.css
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ValidaSenhas.csproj.CopyComplete
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ValidaSenhas.dll
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\refint\ValidaSenhas.dll
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ValidaSenhas.pdb
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ValidaSenhas.genruntimeconfig.cache
+C:\Users\ingri\OneDrive\Área de Trabalho\Sistema de Vendas C#\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ref\ValidaSenhas.dll
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\bin\Debug\net6.0\appsettings.json
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\bin\Debug\net6.0\ValidaSenhas.exe
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\bin\Debug\net6.0\ValidaSenhas.deps.json
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\bin\Debug\net6.0\ValidaSenhas.runtimeconfig.json
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\bin\Debug\net6.0\ValidaSenhas.dll
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\bin\Debug\net6.0\ValidaSenhas.pdb
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ValidaSenhas.csproj.AssemblyReference.cache
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ValidaSenhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ValidaSenhas.AssemblyInfoInputs.cache
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ValidaSenhas.AssemblyInfo.cs
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ValidaSenhas.csproj.CoreCompileInputs.cache
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ValidaSenhas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ValidaSenhas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\scopedcss\bundle\ValidaSenhas.styles.css
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ValidaSenhas.csproj.CopyComplete
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ValidaSenhas.dll
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\refint\ValidaSenhas.dll
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ValidaSenhas.pdb
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ValidaSenhas.genruntimeconfig.cache
+C:\Users\ingri\OneDrive\Área de Trabalho\Projetos em C#\validate-password\ValidaSenhas\ValidaSenhas\obj\Debug\net6.0\ref\ValidaSenhas.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z0t/XoH4PGpJJ1CX2Y7bj9iQKjr8mlnJg3mIc48Xkn/nHQdfPPt82HfM+Z1WLHSyTrfoGH2Wa86paJPuYxcARw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ingri\\OneDrive\\Área de Trabalho\\Projetos em C#\\validate-password\\ValidaSenhas\\ValidaSenhas\\ValidaSenhas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ingri\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ingri\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ingri\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ingri\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ingri\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ingri\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
